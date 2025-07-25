@@ -1,0 +1,16 @@
+
+.PictureBox-main{
+    width: 15rem;
+
+}
+
+.PictureBox-img{
+    transition: 2s ease;
+    border-radius: 2rem;
+    margin: 5rem;
+}
+
+.PictureBox-img:hover{
+    box-shadow: black 2rem 2rem 6rem;
+    border-radius: 0.1rem;
+}

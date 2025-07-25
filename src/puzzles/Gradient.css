@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#gradient-main{
+    width: 5rem;
+}
+
+#gradient-span{
+    background-color: aqua;
+}
