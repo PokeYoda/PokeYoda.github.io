@@ -65,37 +65,37 @@ function AboutMe() {
         </li>
         <li class="mb-10 ms-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2021</time>
+          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2022</time>
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Promotion to 2nd grade with honors</h3>
 
         </li>
         <li class="mb-10 ms-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2021</time>
+          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2023</time>
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Promotion to 3nd grade with honors</h3>
 
         </li>
         <li class="mb-10 ms-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">March 2022</time>
+          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">August 2023</time>
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Apprenticeship in VRR – Immersive Technologies</h3>
           <p class="text-base font-normal text-gray-500 dark:text-gray-400">Learning basics of Unreal Engine 5</p>
         </li>
         <li class="mb-10 ms-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2021</time>
+          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2024</time>
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Promotion to 4nd grade with honors</h3>
 
         </li>
         <li class="mb-10 ms-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">April 2022</time>
+          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">August 2024</time>
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Apprenticeship in Spyrosoft Synergy S.A.</h3>
           <p class="text-base font-normal text-gray-500 dark:text-gray-400">Creating HMI for Yachts in QT Creator</p>
         </li>
         <li class="mb-10 ms-4">
           <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2021</time>
+          <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2025</time>
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Promotion to 5nd grade with honors</h3>
 
         </li>
