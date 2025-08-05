@@ -1,12 +1,11 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-
-import Gradient from './puzzles/Gradient.jsx'
-import MainPage from './components/MainPage.jsx'
+import './index.css'
+import App from './App.jsx'
+import Portfolio from './components/Portfolio.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <MainPage/>
-    <Gradient/>
-  </StrictMode>
+    <Portfolio/>
+  </StrictMode>,
 )
