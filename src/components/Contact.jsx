@@ -10,8 +10,8 @@ function Contact(){
         <ContactItem
           icon={<Mail className="w-6 h-6 text-blue-500" />}
           label="Email"
-          value="justfranek@gmail.com"
-          href="mailto:justfranek@gmail.com"
+          value="example@gmail.com"
+          href="mailto:example@gmail.com"
         />
         <ContactItem
           icon={<Github className="w-6 h-6 text-gray-800 dark:text-white" />}
