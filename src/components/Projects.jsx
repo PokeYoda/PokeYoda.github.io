@@ -28,8 +28,16 @@ function Projects() {
           title="Weather-App"
           description="Website showing current weather conditions using OpenWeatherMap."
           tech="Vue"
-          imgSrc="/docs/images/blog/image-1.jpg"
+          imgSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"
           github="https://github.com/PokeYoda/Weather-App"
+        />
+
+        <ProjectCard
+          title="SuffraHub"
+          description="System allowing anonymous voting using codes. No logging in, stats provided."
+          tech="JavaScript"
+          imgSrc="https://avatars.githubusercontent.com/u/223280659?s=200&v=4"
+          github="https://github.com/SuffraHub"
         />
       </div>
     </div>
